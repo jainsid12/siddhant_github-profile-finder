@@ -1,0 +1,23 @@
+.container{
+    background-color: cadetblue;
+    height: 100px;
+    width: 300px;
+    margin: 10px;
+    display: flex;
+    line-height: 7px;
+}
+
+.user-info h6 {
+    padding: 7px 0 7px 0;
+}
+
+.img-container img{
+    height: 80px;
+    width: 100px;
+}
+
+.img-container {
+    float: right;
+    margin: auto;
+    margin-right: 5px;
+}
